@@ -1,7 +1,10 @@
 *{
-  font-family:'sour gummy', sans-serif;
+  font-family:'sour gummy',
 }
 
+body {
+  background-color: lightblue; /* Altere a cor aqui */
+}
 
 .bg-primary-color {
   background-color: #fff;
